@@ -59,7 +59,7 @@ theme_mode:  # can be "light", "dark", or leave blank for auto
 
 cdn:
 
-avatar:  # optional: e.g. "/assets/img/avatar.png"
+avatar:  /assets/profileImage/avatar.jpg
 
 social_preview_image:  # optional: e.g. "/assets/img/social-preview.png"
 
